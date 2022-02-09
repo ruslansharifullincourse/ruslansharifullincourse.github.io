@@ -1,2 +1,2 @@
-# ruslansharifullincourse.github.io
+# Руслан Шарифуллин
 Мой первый сайт
